@@ -1,4 +1,4 @@
-//Why isn't it letting me use es6?
+
 const express = require('express')
 const cors = require('cors')
 const mongoose = require('mongoose')
