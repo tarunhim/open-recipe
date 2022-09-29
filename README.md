@@ -2,7 +2,7 @@
 
 Users can login and upload recipes and pictures of food or drinks as well as edit and delete their own uploaded recipes. Other users can search for, like, dislike and comment on the recipes
 
-**Link** https://open-recipe-by-tarun.herokuapp.com/
+**Link of the custom made rest api i have created and using in project** https://open-recipe-by-tarun.herokuapp.com/
 
 
 
