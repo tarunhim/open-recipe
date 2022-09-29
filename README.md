@@ -4,7 +4,7 @@ Users can login and upload recipes and pictures of food or drinks as well as edi
 
 **Link** https://open-recipe-by-tarun.herokuapp.com/
 
-![cocktailscreenshot](https://github.com/TravyTheDev/TravyTheDev/blob/main/recipe-screenshot3a.png?raw=true)
+
 
 ## How it's made:
 **Tech used:** React, Node, Express, MongoDB
