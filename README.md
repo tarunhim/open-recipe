@@ -2,7 +2,7 @@
 
 Users can login and upload recipes and pictures of food or drinks as well as edit and delete their own uploaded recipes. Other users can search for, like, dislike and comment on the recipes
 
-**Link** https://open-recipe-v1.herokuapp.com/
+**Link** https://open-recipe-by-tarun.herokuapp.com/
 
 ![cocktailscreenshot](https://github.com/TravyTheDev/TravyTheDev/blob/main/recipe-screenshot3a.png?raw=true)
 
